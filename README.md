@@ -1,4 +1,5 @@
 # TheIsoZone-Xbox-Scraper
+# Support to scrape other game sections coming soon! #
 This script scrapes the index: theisozone.com/downloads/xbox/xbox-isos/ 
 and outputs each game title, there cover image URL, and the link to download the game. 
 Written in less than 40mins with ruby ^_^
